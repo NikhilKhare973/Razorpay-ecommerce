@@ -1,0 +1,7 @@
+backend start app -  npm run start
+
+frontend start app - cd frontend ->  npm  run dev
+
+razorpay test card details - 4386 2894 0766 0153
+
+video refferense - https://www.youtube.com/watch?v=ICxmav6ezJM&t=4477s
