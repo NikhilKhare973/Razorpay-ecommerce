@@ -183,6 +183,8 @@ Any 3-digit number (e.g., 123)
 
 After entering these details and completing the transaction, the payment should be marked as **Successful** in the Razorpay dashboard, and your application should proceed with order confirmation.
 
+<img src="./screenshots/pay.png"/>
+
 🤝 Contributing
 ---------------
 
