@@ -21,7 +21,7 @@ Add your application screenshots here to showcase the main features (e.g., Homep
 
 ![Razorpay Payment Demo](./razorpay.gif)
 
-<img src="./screenshots/1.png"/>
+
 
 Homepage
 
