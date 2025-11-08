@@ -1,7 +1,7 @@
 🛍️ Modern E-commerce Platform with Razorpay
 ============================================
 
-This repository contains a full-stack e-commerce application designed to provide a seamless shopping experience. It features a separate backend (Node.js/Express) and frontend (React/Vue/Angular, assumed for this structure) and includes secure payment processing via **Razorpay** in test mode.
+This repository contains a full-stack e-commerce application designed to provide a seamless shopping experience. It features a separate backend (Node.js/Express) and frontend (React.js, assumed for this structure) and includes secure payment processing via **Razorpay** in test mode.
 
 ✨ Key Features
 --------------
