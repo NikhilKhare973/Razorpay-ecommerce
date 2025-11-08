@@ -136,7 +136,7 @@ To complete a successful payment, use the following card details provided by Raz
 
 Field
 
- <iframe width="560" height="315" path="./razorpay.mp4" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="./razorpay.mp4" frameborder="0" allowfullscreen></iframe>
 
 Value
 
