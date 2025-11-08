@@ -36,7 +36,7 @@ Checkout Success
 
 [Insert Homepage Image/GIF Here]
 
-![Razorpay Payment Demo](./assets/razorpay.gif)
+![Razorpay Payment Demo](./razorpay.gif)
 
 [Insert Product Image Here]
 
