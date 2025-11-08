@@ -19,6 +19,8 @@ This repository contains a full-stack e-commerce application designed to provide
 
 Add your application screenshots here to showcase the main features (e.g., Homepage, Product Detail, Checkout Flow).
 
+![Razorpay Payment Demo](./razorpay.gif)
+
 <img src="./screenshots/1.png"/>
 
 Homepage
